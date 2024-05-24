@@ -4,12 +4,12 @@
 jim chu (朱軍)
 
 ## 年齡
-16 years
+16
 
 ## 興趣
-- play video games
-- sleep
-- play basketball
+- 打特戰英豪
+- 睡覺
+-打籃球
 
 ## 聯絡方式
 - 電子郵件：1123103@stu.tshs.tp.edu.tw
